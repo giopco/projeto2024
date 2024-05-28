@@ -1,0 +1,32 @@
+﻿.imagem {
+    width: 100%;
+    height: 800px;
+}
+
+.texto {
+    position: absolute;
+    color: #fff;
+    top: 100px;
+    line-height: 30px;
+    height: 30px;
+    margin-left: 70%;
+    margin-top: 10%;
+}
+
+    .texto span {
+        font-size: 18px;
+        color: #ffffff;
+        text-transform: uppercase;
+        font-weight: 700;
+        letter-spacing: 6px;
+        margin-bottom: 18px;
+    }
+
+    .texto h1 {
+        font-size: 57px;
+        color: #ffffff;
+        font-weight: 700;
+        text-transform: uppercase;
+        line-height: 90px;
+        margin-bottom: 42px;
+    }
